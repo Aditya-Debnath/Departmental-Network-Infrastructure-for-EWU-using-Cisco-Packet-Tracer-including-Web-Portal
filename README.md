@@ -1,9 +1,9 @@
 # Departmental-Network-Infrastructure-for-EWU-using-Cisco-Packet-Tracer-including-Web-Portal
-Cisco Packet Tracer project designing a secure departmental network for East West University. Includes subnetting, routing (Static and RIP both), FTP with role-based access, and email services to ensure full inter-departmental connectivity.
+Cisco Packet Tracer project designing a secure departmental network for East West University. Includes subnetting, routing (Static and RIP both), FTP with role-based access, email services and web services to ensure full inter-departmental connectivity.
 
 # Departmental Network Infrastructure for East West University
 
-This project is a **network design and implementation** using **Cisco Packet Tracer**, focused on building a secure and scalable **campus-wide infrastructure** for East West University. The design connects multiple departmental LANs and provides communication services such as **FTP** and **Email** with role-based access control.
+This project is a **network design and implementation** using **Cisco Packet Tracer**, focused on building a secure and scalable **campus-wide infrastructure** for East West University. The design connects multiple departmental LANs and provides communication services such as **FTP**, **Email**, and a **Web Portal** with role-based access control.
 
 ---
 
@@ -28,6 +28,7 @@ This project is a **network design and implementation** using **Cisco Packet Tra
     * Chairman/Admin PCs: Full Access (Read, Write, Delete, Rename, List)
     * Department PCs: Limited Access (Download, List)
   * **Email Server** for inter-departmental communication
+  * **Web Portal (Website)** for academic and administrative info, notices, and announcements
   * **Routing** with Static or Dynamic methods (RIP/OSPF)
   * **Subnetting** with unique IP ranges for each department
 
@@ -37,7 +38,7 @@ This project is a **network design and implementation** using **Cisco Packet Tra
 
 * [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer)
 * Basic knowledge of **Networking, IP addressing, and Routing**
-* (Optional) Web Server simulation for academic announcements
+* HTML & CSS (for Web Portal customization)
 
 ---
 
@@ -46,6 +47,7 @@ This project is a **network design and implementation** using **Cisco Packet Tra
 * Fully connected university network across all departments
 * Secure FTP access based on roles
 * Email communication enabled for all PCs
+* Web Portal with departmental info and announcements
 * Efficient routing with proper segmentation
 * Expandable and easy to troubleshoot with subnetting
 
@@ -68,9 +70,10 @@ This project is a **network design and implementation** using **Cisco Packet Tra
 
    * **FTP Server** with proper access controls
    * **Email Server** with valid domain setup
+   * **Web Server** with HTML/CSS files for the portal (linked via DNS)
    * **Routers** with either Static Routing or RIP/OSPF
 
-5. Test connectivity using `ping`, FTP commands, and email exchange.
+5. Test connectivity using `ping`, FTP commands, email exchange, and accessing the website from any PC browser.
 
 ---
 
@@ -95,11 +98,11 @@ This project is a **network design and implementation** using **Cisco Packet Tra
 * End-to-end connectivity across departments
 * Secure FTP with role-based access
 * Functional email service among all PCs
+* Fully accessible Web Portal (university website)
 * Properly segmented and routed university network
 
 ---
 
 ## 📖 License
 
-This project is for **academic purposes** under East West University’s Networking Course (CSE405).
-
+This project is for **academic purposes** under East West University’s CSE Course (CSE405).
