@@ -1,7 +1,7 @@
 # Departmental-Network-Infrastructure-for-EWU-using-Cisco-Packet-Tracer-including-Web-Portal
 Cisco Packet Tracer project designing a secure departmental network for East West University. Includes subnetting, routing (Static and RIP both), FTP with role-based access, email services and web services to ensure full inter-departmental connectivity.
 
-# Departmental Network Infrastructure for East West University
+# Title Name : Departmental Network Infrastructure for East West University
 
 This project is a **network design and implementation** using **Cisco Packet Tracer**, focused on building a secure and scalable **campus-wide infrastructure** for East West University. The design connects multiple departmental LANs and provides communication services such as **FTP**, **Email**, and a **Web Portal** with role-based access control.
 
