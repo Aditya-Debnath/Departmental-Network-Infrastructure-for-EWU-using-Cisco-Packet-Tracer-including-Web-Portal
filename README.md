@@ -29,7 +29,7 @@ This project is a **network design and implementation** using **Cisco Packet Tra
     * Department PCs: Limited Access (Download, List)
   * **Email Server** for inter-departmental communication
   * **Web Portal (Website)** for academic and administrative info, notices, and announcements
-  * **Routing** with Static or Dynamic methods (RIP/OSPF)
+  * **Routing** with Static or Dynamic methods (RIP/Static)
   * **Subnetting** with unique IP ranges for each department
 
 ---
@@ -71,7 +71,7 @@ This project is a **network design and implementation** using **Cisco Packet Tra
    * **FTP Server** with proper access controls
    * **Email Server** with valid domain setup
    * **Web Server** with HTML/CSS files for the portal (linked via DNS)
-   * **Routers** with either Static Routing or RIP/OSPF
+   * **Routers** with either Static Routing or RIP (Dynamic)
 
 5. Test connectivity using `ping`, FTP commands, email exchange, and accessing the website from any PC browser.
 
@@ -105,4 +105,4 @@ This project is a **network design and implementation** using **Cisco Packet Tra
 
 ## 📖 License
 
-This project is for **academic purposes** under East West University’s CSE Course (CSE405).
+This project is for **academic purposes** under East West University’s CSE Course (CSE405 - Computer Networks).
