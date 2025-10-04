@@ -95,7 +95,7 @@ This project is a **network design and implementation** using **Cisco Packet Tra
 
 ## 📖 Enjoy the Website for the Web Server
 
-1. [Click here to see the website](https://aditya-debnath.github.io/Departmental-Network-Infrastructure-for-EWU-using-Cisco-Packet-Tracer-including-Web-Portal/)
+Website for Web Server: [Click here to see the website](https://aditya-debnath.github.io/Departmental-Network-Infrastructure-for-EWU-using-Cisco-Packet-Tracer-including-Web-Portal/)
 
 ---
 
