@@ -37,7 +37,7 @@ This project is a **network design and implementation** using **Cisco Packet Tra
 ## 🛠️ Tools & Requirements
 
 * [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer)
-* Basic knowledge of **Networking, IP addressing, and Routing**
+* Basic knowledge of **Networking, IP addressing, Routing, and Web Server**
 * HTML & CSS (for Web Portal customization)
 
 ---
