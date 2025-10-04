@@ -93,6 +93,12 @@ This project is a **network design and implementation** using **Cisco Packet Tra
 
 ---
 
+## 📖 Enjoy the Website for the Web Server
+
+1. [Click here to see the website](https://aditya-debnath.github.io/Website-about-Daily-Inspiration/)
+
+---
+
 ## 🎯 Expected Outcome
 
 * End-to-end connectivity across departments
